@@ -1,0 +1,12 @@
+nypprojectbank.user_banker$kredilerimm
+nypprojectbank.user_banker$oldKrediler
+nypprojectbank.krediler
+nypprojectbank.user_cust$user_banker
+nypprojectbank.kredilerim
+nypprojectbank.user_cust
+nypprojectbank.user_banker
+nypprojectbank.oldKrediler
+nypprojectbank.user_cust$kredilerimm
+nypprojectbank.user
+nypprojectbank.user_cust$oldKrediler
+nypprojectbank.kredilerimm
