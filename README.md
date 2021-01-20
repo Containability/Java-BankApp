@@ -9,4 +9,4 @@ Gui developed by using Java Swing.
 
 
 
-![alt text](https://github.com/Containability/Java-BankApp/blob/master/mecbank1.jpg?raw=true)
+![alt text](https://github.com/Containability/Java-BankApp/blob/master/mecbank2.jpg?raw=true)
